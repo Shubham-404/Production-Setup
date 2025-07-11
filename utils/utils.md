@@ -1,0 +1,1 @@
+Utility funtions like authentication services, username alotment, password generation, otp, etc., will take place through function calls lying in this folder.

@@ -1,0 +1,1 @@
+Handles frontend (EJS) pages.

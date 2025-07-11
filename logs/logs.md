@@ -1,0 +1,1 @@
+For storing application logs (error, access, etc.), which is important in production.
